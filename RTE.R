@@ -1,0 +1,108 @@
+#Setup---
+# https://librarysearch.stir.ac.uk/discovery/fulldisplay?docid=alma991004705879706861&context=L&vid=44UST_INST:VU1&lang=en&search_scope=ALMA_NO_JOURNALS&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,r%20ecology&offset=0
+# file:///C:/Users/tmaso/OneDrive/Msc%20Environmental%20Management/R/Lakicevic2020_Book_IntroductionToRForTerrestrialE.pdf
+
+install.packages("dplyr")
+library(dplyr)
+
+#Creating vectors----
+id<-1:12
+species<-paste("Species", 1:12)
+size<-c(50,25,30,45,2,70,22,20,10,45,22,56)
+altitude<-c(rep("0-500",2), rep("501-1000",3), rep("1001-1500",5), rep("0-500",2))
+protection<-c(rep(T, each=5), rep(F, each=7))
+
+# create DF----
+df<-data.frame(id, species, size, altitude, protection)
+df
+View(df)
+
+# subsetting data (and making a separate DF)----
+df_subset<-subset(df,size>=50)
+View(df_subset)
+
+# multiple criteria subset
+subset(df, size>10 &(altitude=="0-500"|altitude=="501-1000")&protection==T)
+
+#removing elements from a dataframe
+  #remove a row
+df[-12,] # removes 12th row
+df[-c(1:7,10),] #removes 1 to 7 and 10
+
+#remove cols based on name
+subset(df,select = -c(altitude,protection))
+
+#remove cols and rows at the same time
+df[-(2:9),-c(1,3)] #removes rows 2 to 9 and rows 1 and 3df
+# to keep only cols 1 and 3, just remove the "-" before "c"
+
+#Adding elements to a data frame----
+# This will add the year 2018, 2019 repeated 6x
+year<-c(rep(2018:2019,6))
+
+#append to the DF
+cbind(df,year) #or
+data.frame(df,year)
+
+#Merge DF's----
+
+# COLUMNS
+  #create new df to merge 
+df.category<-data.frame(id=1:12,category=c("a","b","c"))
+df.category
+  # merge
+merge(df,df.category,by="id")
+
+# ROWS
+df.row<-apply(df,2,min) #this row contains the lowest value in each column
+df.row
+#this creates 1 row, it can be added using rbind
+rbind(df,df.row)
+
+# or as a list, create the list
+row.list<-list(15,"species 8",28,"501-1000",T)
+row.list
+#bind it
+rbind(df[1:3,],row.list) #this binds it with only entries 1,3 for example
+
+# OPERATIONS----
+
+#cut function
+size.group<-cut(df$size,breaks=3,
+                labels = c("small","medium","large"))
+size.group
+cbind(df,size.group)
+# in this example R auto-defines small, med and large
+  # but we can define our own thresholds
+size.group2<-cut(df$size,breaks=c(0,30,100), #2 groups are make <=30 and bwteen 30-100.
+                 labels=c("regular","remarkable"))
+size.group2
+cbind(df,size.group2)
+
+#Manipulating the dataframe----
+
+  #find max population size for protected species
+protected<-subset(df,protection==T)
+max(protected$size)
+protected
+
+  #count species with protected status
+length(which(df$protection==T))
+    # and in a specific range
+length(which(df$protection==T & df$altitude=="0-500"))
+
+  #max pop size in each range
+df3<-aggregate(df$size,by=list(altitude),FUN=max)
+df3
+   #name the columns
+names(df3)<-c("altitude","max pop size")
+   #reorder the data
+df3[order(df3$`max pop size`),]
+
+#calculate avg pop size by protection status
+df4<-aggregate(df$size,by=list(protection),FUN=mean)
+names(df4)<-c("protection","avg pop size")
+df4
+
+#MISSING DATA----
+
