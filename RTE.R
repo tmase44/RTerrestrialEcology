@@ -105,4 +105,57 @@ names(df4)<-c("protection","avg pop size")
 df4
 
 #MISSING DATA----
+  # for demo, replace pop sizes of 45 with NA
+df$size[df$size==45]<-NA
+df.na<-df
+df.na
 
+# NA data means tha certain sums will not work, for example
+sum(df$size)
+# NA values need to be replaced
+sum(df$size,na.rm=T)
+  # na remove sums up all the values excluding NA
+
+# in order to list all rows with NA (missing data)
+df[!complete.cases(df),]
+
+#Replacing missing values----
+#Creating a vector with complete cases
+size.complete<-df$size[complete.cases(df$size)]
+size.complete
+#Finding a mode value for complete cases
+size.complete<-factor(size.complete)
+mode<-rev(sort(summary(size.complete)))
+mode<-mode[1]
+mode
+#Filling missing elements with the mode value
+df$size[!complete.cases(df$size)]<-22
+df$size
+df # NA's have been placed with 22
+
+#Finding the median value of complete cases
+median<-median(df$size, na.rm=T)
+median
+#Filling missing elements with the median value
+df$size[!complete.cases(df$size)]<-median
+df$size
+df # NA's have been placed with 22
+
+# "Safe" NA threshold----
+  #There is a conventional threshold regarding the number 
+  #of missing values in a row or column that should be taken 
+  #into account. If we have large datasets, a threshold of 5% 
+  #missing values is considered “safe.” 
+  #For cases in which there are more than 5% missing values, 
+  #it is recommended to discard that column or row from the data
+
+#Checking percentage of missing elements in a column
+per.missing<-function(x){sum(is.na(x))/length(x)*100}
+apply(df.na, 2, per.missing)
+# we have 16% data NA. This a big issue because this is a small dataset
+
+#Checking percentage of missing elements in a row
+miss.rows<-apply(df.na, 1, per.missing)
+cbind(id, miss.rows)
+  # shows that 20% of elements have missing data in THE ROW
+   # 1 column out of 5
