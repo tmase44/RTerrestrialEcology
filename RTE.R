@@ -2,8 +2,8 @@
 # https://librarysearch.stir.ac.uk/discovery/fulldisplay?docid=alma991004705879706861&context=L&vid=44UST_INST:VU1&lang=en&search_scope=ALMA_NO_JOURNALS&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,r%20ecology&offset=0
 # file:///C:/Users/tmaso/OneDrive/Msc%20Environmental%20Management/R/Lakicevic2020_Book_IntroductionToRForTerrestrialE.pdf
 
-install.packages("dplyr")
 library(dplyr)
+library(ggplot2)
 
 #Creating vectors----
 id<-1:12
@@ -159,3 +159,61 @@ miss.rows<-apply(df.na, 1, per.missing)
 cbind(id, miss.rows)
   # shows that 20% of elements have missing data in THE ROW
    # 1 column out of 5
+
+
+#OUTLIER DATA----
+# transforming outliers----
+
+#Measured height of poplar trees [meters]
+tree.height.meters<-c(27,30,32,28,35,42,27,150)
+  # here we have outlier data of 150
+boxplot(tree.height.meters, ylab = "height [m]")
+  # if we think the outlier is invalid we can just remove it, but if it valid
+  # we can log-transform the data
+#Transforming values using log funtion
+log.tree.height<-log(tree.height.meters)
+log.tree.height<-round(log.tree.height,2)
+log.tree.height
+#Plotting transformed values
+plot(log.tree.height, xlab="measurement")
+
+# We can ise this ^ to compare the inital and logtransformed data to show the effect
+#Creating a matrix (initial and transformed values)
+it<-matrix(c(tree.height.meters,log.tree.height), ncol=2, byrow=F)
+colnames(it)<-c("initial", "transformed")
+it
+#Defining multiple functions
+multi.fun <- function(x) {c(mean = mean(x),
+            median = median(x), sd = sd(x))}
+#Apply multiple functions
+apply(it,2, multi.fun)
+
+# removing outliers----
+initial<-tree.height.meters # first, rename the dataset in question
+rm.out<-initial[!initial%in%boxplot(initial)$out]
+rm.out
+# now the boxplot is reasonable
+boxplot(rm.out, ylab="height [m]")
+# with SUMMARY i can pull descriptive data
+summary(rm.out)
+
+# BASIC ECOLOGICAL ANALYSIS----
+attach(pdtest)
+pdata<-pdtest
+View(pdata)
+dim(pdata)
+str(pdata)
+unique(`Type 1`)
+
+# create a new DF subset for all Fire Types
+fire<-subset(pdata,`Type 1`=="Fire")
+View(fire)
+
+# back to pdata, make Type 1 a factor
+pdata$`Type 1`<-factor(pdata$`Type 1`)
+summary(pdata$`Type 1`) # see totals per Type1
+
+#calculate biological spectrum
+biospec<-prop.table(summary(pdata$'Type 1'))*100
+biospec# results are as a %
+biospec[rev(order(biospec))] # this orders HI-LOW
