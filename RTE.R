@@ -198,8 +198,9 @@ boxplot(rm.out, ylab="height [m]")
 summary(rm.out)
 
 # BASIC ECOLOGICAL ANALYSIS----
-attach(pdtest)
-pdata<-pdtest
+getwd()
+list.files()
+pdata<-read.csv("pdtest.csv")
 View(pdata)
 dim(pdata)
 str(pdata)
