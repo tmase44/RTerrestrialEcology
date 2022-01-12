@@ -243,8 +243,14 @@ View(typechart)
 ggplot(typechart,aes(Type1,freq))+
   geom_col()
 # order and formatting
-ggplot(typechart,aes(reorder(Type1,-freq,sum),freq))+
+ggplot(typechart,aes(reorder(Type1,-freq,sum),freq,fill=Type1))+
   geom_col()+
+  geom_text(aes(label=freq),vjust=-0.5)+
   labs(x="frequency(%)",
        y = "Power Type",
-       title = "Population Distribution by Type")
+       title = "Population Distribution by Type")+
+  theme(legend.position = "none",
+        axis.text.x = element_text(angle=45),
+        panel.background = element_blank(),
+        panel.grid = element_line(colour="grey92"))
+
