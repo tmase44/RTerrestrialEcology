@@ -4,6 +4,7 @@
 
 library(dplyr)
 library(ggplot2)
+library(reshape)
 
 #Creating vectors----
 id<-1:12
@@ -233,7 +234,7 @@ pdata %>%
   group_by(Type1)%>%
   summarize(n=n())%>%
   mutate(freq=n/sum(n)*100)
-# or BETTER BECAUSE DECIMALS ARE EQUAL!!!----
+# or BETTER BECAUSE DECIMALS ARE EQUAL!!!
 typechart<-pdata %>% 
   count(Type1) %>% 
   mutate(freq=n/sum(n)*100) %>% 
@@ -253,4 +254,34 @@ ggplot(typechart,aes(reorder(Type1,-freq,sum),freq,fill=Type1))+
         axis.text.x = element_text(angle=45),
         panel.background = element_blank(),
         panel.grid = element_line(colour="grey92"))
+
+#YOY proportional changes----
+  # expand the data set with count data for 2 years
+pdata2<-pdata
+dim(pdata2)
+pdata2$Y2020<-rnorm(800,50,10)
+pdata2$Y2020<-round(pdata2$Y2020,0)
+pdata2$Y2021<-rnorm(800,60,10)
+pdata2$Y2021<-round(pdata2$Y2021,0)
+
+# now mark the changes using MUTATE + IFELSE
+pdata3<-pdata2 %>% 
+  mutate(change = ifelse(pdata2$Y2020==pdata2$Y2021,"no change",
+                         ifelse(pdata2$Y2020<pdata2$Y2021,"increase",
+                                "decrease")))
+View(pdata3)
+# count the types of change
+pdata3 %>% count(change)
+# stacked bar to compare YOY
+#To graphically present the number of species in 2014 and 2019, we create two different plots: 
+#stacked and grouped bar. When defining values to be placed on the x and y axes, we need to have 
+#unique values, so we cannot specify two different columns to be printed on the y axis. Therefore, we 
+#need to make some adjustments to the data frame df before printing the results. In fact, we need to 
+#create a new data frame with one column showing the number of individuals in which the first half of 
+#rows show the number of individuals in 2014 and then the second half the number in 2019. This transformation is easily done with the function “melt” from the package “reshape”:
+
+#DPLYR gather and spread can be used
+pdata2<-pdata2 %>% 
+  gather(key=)
+
 
