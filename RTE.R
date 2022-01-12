@@ -201,20 +201,50 @@ summary(rm.out)
 getwd()
 list.files()
 pdata<-read.csv("pdtest.csv")
+pdata$Type1<-pdata$Type.1
+pdata<-select(pdata,-Type.1)
 View(pdata)
 dim(pdata)
 str(pdata)
-unique(`Type 1`)
+unique(pdata$`Type1`)
 
 # create a new DF subset for all Fire Types
-fire<-subset(pdata,`Type 1`=="Fire")
+fire<-subset(pdata,`Type1`=="Fire")
 View(fire)
 
 # back to pdata, make Type 1 a factor
-pdata$`Type 1`<-factor(pdata$`Type 1`)
-summary(pdata$`Type 1`) # see totals per Type1
+pdata$`Type1`<-factor(pdata$`Type1`)
+summary(pdata$`Type1`) # see totals per Type1
 
 #calculate biological spectrum
-biospec<-prop.table(summary(pdata$'Type 1'))*100
+biospec<-prop.table(summary(pdata$'Type1'))*100
 biospec# results are as a %
 biospec[rev(order(biospec))] # this orders HI-LOW
+# transform the results into a matrix!
+biospec<-as.matrix(biospec)
+labels<-paste(c(rownames(biospec)),":",
+              biospec[,1])
+labels<-paste(labels,"%",sep="")
+#pie
+pie(biospec,labels=labels,col=topo.colors(18))
+
+# DPLYR CAN ALSO WORK OUR PROPORTION WITHOUT SUBSETTING----
+pdata %>%
+  group_by(Type1)%>%
+  summarize(n=n())%>%
+  mutate(freq=n/sum(n)*100)
+# or BETTER BECAUSE DECIMALS ARE EQUAL!!!----
+typechart<-pdata %>% 
+  count(Type1) %>% 
+  mutate(freq=n/sum(n)*100) %>% 
+  arrange(desc(freq))
+View(typechart)
+# Then chart
+ggplot(typechart,aes(Type1,freq))+
+  geom_col()
+# order and formatting
+ggplot(typechart,aes(reorder(Type1,-freq,sum),freq))+
+  geom_col()+
+  labs(x="frequency(%)",
+       y = "Power Type",
+       title = "Population Distribution by Type")
