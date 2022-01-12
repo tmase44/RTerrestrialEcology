@@ -2,6 +2,7 @@
 # https://librarysearch.stir.ac.uk/discovery/fulldisplay?docid=alma991004705879706861&context=L&vid=44UST_INST:VU1&lang=en&search_scope=ALMA_NO_JOURNALS&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,r%20ecology&offset=0
 # file:///C:/Users/tmaso/OneDrive/Msc%20Environmental%20Management/R/Lakicevic2020_Book_IntroductionToRForTerrestrialE.pdf
 
+library(tidyr)
 library(dplyr)
 library(ggplot2)
 library(reshape)
@@ -228,17 +229,17 @@ labels<-paste(c(rownames(biospec)),":",
 labels<-paste(labels,"%",sep="")
 #pie
 pie(biospec,labels=labels,col=topo.colors(18))
-
+typechart<-pdata %>% 
+  count(Type1) %>% 
+  mutate(freq=n/sum(n)*100) %>% 
+  arrange(desc(freq))
 # DPLYR CAN ALSO WORK OUR PROPORTION WITHOUT SUBSETTING----
 pdata %>%
   group_by(Type1)%>%
   summarize(n=n())%>%
   mutate(freq=n/sum(n)*100)
 # or BETTER BECAUSE DECIMALS ARE EQUAL!!!
-typechart<-pdata %>% 
-  count(Type1) %>% 
-  mutate(freq=n/sum(n)*100) %>% 
-  arrange(desc(freq))
+
 View(typechart)
 # Then chart
 ggplot(typechart,aes(Type1,freq))+
@@ -270,6 +271,7 @@ pdata3<-pdata2 %>%
                          ifelse(pdata2$Y2020<pdata2$Y2021,"increase",
                                 "decrease")))
 View(pdata3)
+
 # count the types of change
 pdata3 %>% count(change)
 # stacked bar to compare YOY
@@ -281,7 +283,46 @@ pdata3 %>% count(change)
 #rows show the number of individuals in 2014 and then the second half the number in 2019. This transformation is easily done with the function “melt” from the package “reshape”:
 
 #DPLYR gather and spread can be used
-pdata2<-pdata2 %>% 
-  gather(key=)
+pdatagather<-pdata2 %>% 
+  gather(key="Year",value="Sightings",3:4)
+
+# summary stats (individual pokemon too many data)
+pdsum<-pdatagather %>% 
+  group_by(Type1,Year) %>% 
+  summarize(Total_count = sum(Sightings))
+#chart
+pdsum %>% 
+  ggplot(aes(Year,Total_count,fill=Type1))+
+  geom_bar(stat = "identity")+
+  geom_text(aes(label=Total_count),size=4,
+            position=position_stack(vjust=0.5))
+  
+# now to show the % share of each Type per year
+pdsum<-pdsum %>% 
+group_by(Year) %>% 
+  mutate(percent = Total_count/sum(Total_count)*100)
+pdsum$percent<-round(pdsum$percent,2)
+# chart
+pdsum %>% 
+  ggplot(aes(Year,percent,fill=Type1))+
+  geom_bar(stat = "identity")+
+  geom_text(aes(label=percent),size=4,
+            position=position_stack(vjust=0.5))
+
+# data can be shown as a grouped bar----
+pdsum %>% 
+  ggplot(aes(Type1,Total_count,fill=Year))+
+  geom_bar(stat="identity",position="dodge")+
+  geom_text(aes(label=Total_count),
+            position=position_dodge(width=0.9),vjust=-0.5,size=3)+
+  scale_y_continuous(expand = expansion(mult = c(0, .1))) # REMOVE CHART GAP!----
+  # and the percentage
+pdsum %>% 
+  ggplot(aes(reorder(Type1,-percent,sum),percent,fill=Year))+ #ordered by hi-low-2021
+  geom_bar(stat="identity",position="dodge")+
+  geom_text(aes(label=percent),
+            position=position_dodge(width=0.9),vjust=-0.5,size=3)+
+  scale_y_continuous(expand = expansion(mult = c(0, .1)))+
+  labs(x="Type",y="Percentage of all types in given year")
 
 
