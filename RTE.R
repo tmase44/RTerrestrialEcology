@@ -6,6 +6,8 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 library(reshape)
+library(vegan)
+install.packages("vegan")
 
 #Creating vectors----
 id<-1:12
@@ -14,12 +16,12 @@ size<-c(50,25,30,45,2,70,22,20,10,45,22,56)
 altitude<-c(rep("0-500",2), rep("501-1000",3), rep("1001-1500",5), rep("0-500",2))
 protection<-c(rep(T, each=5), rep(F, each=7))
 
-# create DF----
+# create DF
 df<-data.frame(id, species, size, altitude, protection)
 df
 View(df)
 
-# subsetting data (and making a separate DF)----
+# subsetting data----
 df_subset<-subset(df,size>=50)
 View(df_subset)
 
@@ -233,6 +235,7 @@ typechart<-pdata %>%
   count(Type1) %>% 
   mutate(freq=n/sum(n)*100) %>% 
   arrange(desc(freq))
+
 # DPLYR CAN ALSO WORK OUR PROPORTION WITHOUT SUBSETTING----
 pdata %>%
   group_by(Type1)%>%
@@ -282,7 +285,7 @@ pdata3 %>% count(change)
 #create a new data frame with one column showing the number of individuals in which the first half of 
 #rows show the number of individuals in 2014 and then the second half the number in 2019. This transformation is easily done with the function “melt” from the package “reshape”:
 
-#!! DPLYR gather and spread can be used----
+#DPLYR gather and spread can be used----
 pdatagather<-pdata2 %>% 
   gather(key="Year",value="Sightings",3:4)
 
@@ -309,13 +312,13 @@ pdsum %>%
   geom_text(aes(label=percent),size=4,
             position=position_stack(vjust=0.5))
 
-# data can be shown as a grouped bar----
+# data can be shown as a grouped bar
 pdsum %>% 
   ggplot(aes(Type1,Total_count,fill=Year))+
   geom_bar(stat="identity",position="dodge")+
   geom_text(aes(label=Total_count),
             position=position_dodge(width=0.9),vjust=-0.5,size=3)+
-  scale_y_continuous(expand = expansion(mult = c(0, .1))) # REMOVE CHART GAP!----
+  scale_y_continuous(expand = expansion(mult = c(0, .1))) # Tip: remove x-ax gap----
   # and the percentage
 pdsum %>% 
   ggplot(aes(reorder(Type1,-percent,sum),percent,fill=Year))+ #ordered by hi-low-2021
@@ -325,7 +328,7 @@ pdsum %>%
   scale_y_continuous(expand = expansion(mult = c(0, .1)))+
   labs(x="Type",y="Percentage of all types in given year")
 
-#facet wrapping----
+#facet wrapping
   # split by species YOY
 pdsum %>% 
   ggplot(aes(Year,percent,fill=Year))+
@@ -343,3 +346,49 @@ ggplot(subset(pdsum,Type1 %in% c("Dark","Dragon","Ghost","Poison","Psychic")),ae
   geom_bar(stat="identity")+
   facet_wrap(~Year)
 
+# BIODIVERSITY INDICES----
+  # alpha indices measure species in a particular area
+  # beta indices compare similarities between different areas
+
+# Shannon and Simpson indices
+  # calculating in base R----
+
+# ! SHANNON INDEX----
+  # p.i = proportion  of species (i)n the community
+  # s = total number of species in the community
+# calculate  p
+p<-round(prop.table(typechart$n),3)
+# add p to the dataframe
+typechart<-cbind(typechart,p)
+# calculate In(p)
+in.p<-round(log(x=p),3)
+# add in(p) to the dataframe
+typechart<-cbind(typechart,in.p)
+# multiply p * in.p, add column to the dataframe
+typechart<-cbind(typechart, multipl=round(p*in.p,3))
+typechart
+# To calculate the Shannon index: 
+  # sum the values in the column “multipl” 
+    #and multiply it by -1
+shannon<-sum(typechart$multipl)*(-1)
+  # result = 2.716
+# index usually ranges between 1.5-3.5
+  # index above 3.5 and 4 suggests high biodiversity
+
+# ! SIMPSON INDEX----
+  # p.i = proportion  of species (i)n the community
+  # s = total number of species in the community
+# calculate  p
+p<-round(prop.table(typechart$n),3)
+# calculate p * p
+p2<-round(p*p,3)
+# To calculate Simpson index:
+simpson<-1-sum(p2)
+simpson
+# index ranges 0 - 1 (1 is higher biodiversity)
+
+  # calculating using VEGAN package----
+
+# data prep
+pdsum2 <-pdsum %>% 
+  spread(key="Type1",value="Total_count",3)
