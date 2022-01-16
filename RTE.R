@@ -202,6 +202,7 @@ boxplot(rm.out, ylab="height [m]")
 summary(rm.out)
 
 # BASIC ECOLOGICAL ANALYSIS----
+#import data----
 getwd()
 list.files()
 pdata<-read.csv("pdtest.csv")
@@ -436,7 +437,8 @@ indices<-cbind(shannon,simpson,richness)
 indices<-data.frame(indices)
 indices
 
-# TASK----
-  # create the 3 indices for all the pokemon types
-    # new DF with unique count of pokemon per type
-      #use pdata2 as the base
+
+
+
+
+
