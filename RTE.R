@@ -2,7 +2,7 @@
 # https://librarysearch.stir.ac.uk/discovery/fulldisplay?docid=alma991004705879706861&context=L&vid=44UST_INST:VU1&lang=en&search_scope=ALMA_NO_JOURNALS&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,r%20ecology&offset=0
 # file:///C:/Users/tmaso/OneDrive/Msc%20Environmental%20Management/R/Lakicevic2020_Book_IntroductionToRForTerrestrialE.pdf
 
-library(tidyr)
+library(tidyverse)
 library(dplyr)
 library(ggplot2)
 library(reshape)
@@ -231,6 +231,7 @@ labels<-paste(c(rownames(biospec)),":",
 labels<-paste(labels,"%",sep="")
 #pie
 pie(biospec,labels=labels,col=topo.colors(18))
+
 typechart<-pdata %>% 
   count(Type1) %>% 
   mutate(freq=n/sum(n)*100) %>% 
@@ -390,5 +391,52 @@ simpson
   # calculating using VEGAN package----
 
 # data prep
-pdsum2 <-pdsum %>% 
-  spread(key="Type1",value="Total_count",3)
+  # here i have done SUBSET & SPREAD to transform the data
+pdsum2<-pdsum %>% 
+  select(Type1,Year,Total_count) %>% 
+  filter(Type1 %in%c("Dark","Dragon","Ghost","Poison","Psychic")) %>% 
+  group_by(Year) %>% 
+  spread(key="Type1",value="Total_count")
+# I have to rename the rows to be the years
+pdsum2<-pdsum2 %>% 
+  remove_rownames %>% 
+  column_to_rownames(var="Year")
+
+# ! RICHNESS----
+  # is an ALPHA biodiversity index (Fedor and Zvaríková 2019)
+#Calculating the richness
+fun.1<-function(x){sum(x>0)} 
+richness<-apply(pdsum2, 1, FUN=fun.1)
+richness
+# result shows that there are 5 species found in each group (in this case, each year)
+
+# ! VEGAN SHANNON INDEX----
+  # command "for" makes a loop
+#Calculating the Shannon index
+for (pdsum2.row in 1:2)
+{shannon<- matrix(diversity(pdsum2[,], index = "shannon"))} 
+shannon<-round(shannon,3)
+shannon
+#rename rows and cols
+row.names(shannon)<-row.names(pdsum2) 
+colnames(shannon)<-"Shannon"
+
+# ! VEGAN SIMPSON INDEX----
+#Calculating the Simpson index
+for (pdsum2.row in 1:2)
+{simpson<- matrix(diversity(pdsum2[,], index = "simpson"))} 
+simpson<-round(simpson,3)
+simpson
+#rename rows and cols
+row.names(simpson)<-row.names(pdsum2) 
+colnames(simpson)<-"Simpson" 
+
+# All 3 can be assembled
+indices<-cbind(shannon,simpson,richness)
+indices<-data.frame(indices)
+indices
+
+# TASK----
+  # create the 3 indices for all the pokemon types
+    # new DF with unique count of pokemon per type
+      #use pdata2 as the base
