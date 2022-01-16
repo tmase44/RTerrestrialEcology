@@ -282,7 +282,7 @@ pdata3 %>% count(change)
 #create a new data frame with one column showing the number of individuals in which the first half of 
 #rows show the number of individuals in 2014 and then the second half the number in 2019. This transformation is easily done with the function “melt” from the package “reshape”:
 
-#DPLYR gather and spread can be used
+#!! DPLYR gather and spread can be used----
 pdatagather<-pdata2 %>% 
   gather(key="Year",value="Sightings",3:4)
 
@@ -325,4 +325,21 @@ pdsum %>%
   scale_y_continuous(expand = expansion(mult = c(0, .1)))+
   labs(x="Type",y="Percentage of all types in given year")
 
+#facet wrapping----
+  # split by species YOY
+pdsum %>% 
+  ggplot(aes(Year,percent,fill=Year))+
+  geom_bar(stat="identity")+
+  facet_wrap(~Type1)
+
+# split by year species
+pdsum %>%
+  ggplot(aes(Type1,percent,fill=Type1))+
+  geom_bar(stat="identity")+
+  facet_wrap(~Year)
+
+# that is a bit crowded, we can subset in the ggplot to make it nicer
+ggplot(subset(pdsum,Type1 %in% c("Dark","Dragon","Ghost","Poison","Psychic")),aes(Type1,percent,fill=Type1))+
+  geom_bar(stat="identity")+
+  facet_wrap(~Year)
 
