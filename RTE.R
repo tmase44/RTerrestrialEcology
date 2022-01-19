@@ -437,6 +437,30 @@ indices<-cbind(shannon,simpson,richness)
 indices<-data.frame(indices)
 indices
 
+# Plotting indices----
+indices %>% 
+  ggplot(aes(Simpson,Shannon,label=row.names(indices)))+
+  geom_point(color=factor(richness),size=5)+
+  geom_text()+
+  ylim(1.4,1.6)+xlim(0.7,9)
+
+# BETA INDEXES----
+#differences between communities
+#data
+comm.1<-c(25,40,50,15,22,0,0) 
+comm.2<-c(70,32,58,42,0,2,0) 
+comm.3<-c(82,50,0,0,24,32,0) 
+comm.4<-c(0,30,72,75,36,4,47)
+bd<-matrix(c(comm.1, comm.2, comm.3, comm.4), nrow=4, byrow = T) 
+row.names(bd)<-c("comm.1", "comm.2", "comm.3", "comm.4") 
+colnames(bd)<-paste("Species", LETTERS[1:7])
+bd
+
+# ! VEGAN SORENSEN INDEX----
+
+
+# ! VEGAN JACCARD DISTANCE----
+
 
 
 
