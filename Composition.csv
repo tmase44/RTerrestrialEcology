@@ -1,0 +1,675 @@
+id,Date,AMPM,Region.Label,Study.Area,Sample.Label,Area,Effort,Temperature,Weather,Start_time,End_time,Object,Distance,Comments
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Rock dove,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Rock dove,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Javan myna,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Javan myna,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Javan myna,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Common flameback,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Common flameback,35,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Javan myna,2,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,House crow,25,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,House crow,25,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Javan myna,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Javan myna,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,26.4,rising sun; light cloud; mostly clear,07:01,07:06,Rock dove,2,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Javan myna,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Javan myna,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Javan myna,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Javan myna,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Javan myna,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Rock dove,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Rock dove,1,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Rock dove,25,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Oriental magpie robin,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,House sparrow,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,House sparrow,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Tanimbar corella,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Oriental pied hornbill,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,26.4,rising sun; light cloud; mostly clear,07:08,07:13,Oriental pied hornbill,35,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Oriental pied hornbill,40,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Red-breasted parakeet,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Red-breasted parakeet,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Red-breasted parakeet,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Red-breasted parakeet,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Red-breasted parakeet,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Oriental magpie robin,6,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Oriental magpie robin,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Asian Koel,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Common flameback,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Junglefowl,6,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Rock dove,7,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Javan myna,12,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Javan myna,12,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Javan myna,4,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,26.4,rising sun; light cloud; mostly clear,07:13,07:18,Javan myna,1,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Red-breasted parakeet,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Red-breasted parakeet,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Red-breasted parakeet,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Red-breasted parakeet,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,House crow,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,House crow,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,House crow,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,House crow,1,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Rock dove,25,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Rock dove,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Zebra dove,12,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Yellow vented bulbul,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Zebra dove,12,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Asian Koel,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Asian Koel,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,26.4,rising sun; light cloud; mostly clear,07:21,07:26,Asian glossy starling,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Tanimbar corella,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Red-breasted parakeet,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Red-breasted parakeet,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Red-breasted parakeet,5,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Collared Kingfisher,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,House crow,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Rock dove,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Collared Kingfisher,25,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Oriental pied hornbill,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,House crow,20,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Collared Kingfisher,15,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Javan myna,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Javan myna,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Javan myna,30,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Javan myna,8,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Javan myna,10,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Red-breasted parakeet,25,
+1AM,17/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,26.4,rising sun; light cloud; mostly clear,07:28,07:33,Red-breasted parakeet,25,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Tanimbar corella,35,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Tanimbar corella,30,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Tanimbar corella,35,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,1,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,2,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,10,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,30,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,10,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,5,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,5,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,5,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,10,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Javan myna,10,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Rock dove,5,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Rock dove,5,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Asian glossy starling,25,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Common iora,15,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Red-breasted parakeet,35,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Red-breasted parakeet,30,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,31.9,clear;hot;humid,16:43,16:47,Brahminy kite,40,Construction; road works
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,20,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,20,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,20,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,5,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,5,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Javan myna,5,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Zebra dove,2,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Zebra dove,2,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Yellow vented bulbul,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Yellow vented bulbul,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Yellow vented bulbul,20,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Oriental magpie robin,30,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Oriental magpie robin,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Common myna,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Common myna,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Red-breasted parakeet,30,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Red-breasted parakeet,35,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Red-breasted parakeet,10,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,House sparrow,20,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Collared Kingfisher,25,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Collared Kingfisher,30,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,House crow,15,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,31.9,clear;hot;humid,16:48,16:53,Rock dove,15,Heavy traffic; loud music
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,35,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,35,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,150,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,10,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,20,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,25,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Javan myna,20,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Common myna,5,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,15,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,15,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,25,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,25,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,10,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,20,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Red-breasted parakeet,2,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,31.9,clear;hot;humid,16:54,16:59,Oriental magpie robin,25,Moderate traffic; high footfall
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,House crow,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,House crow,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,House crow,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,House crow,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,20,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,30,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,25,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,15,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,15,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,15,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Red-breasted parakeet,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,25,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,30,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,30,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,25,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,25,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Javan myna,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Rock dove,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Rock dove,20,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Tanimbar corella,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Tanimbar corella,30,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Tanimbar corella,30,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Asian glossy starling,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Asian glossy starling,35,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,31.9,clear;hot;humid,17:00,17:05,Asian glossy starling,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Javan myna,5,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Javan myna,5,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Javan myna,5,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Javan myna,5,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,10,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Red-breasted parakeet,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,House crow,15,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,House crow,15,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,House crow,30,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,House crow,45,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Rock dove,5,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Rock dove,10,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Yellow crested cockatoo,20,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Oriental pied hornbill,40,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Common myna,10,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Common myna,10,
+1PM,17/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,31.9,clear;hot;humid,17:06,17:12,Common myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,20,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,40,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,House crow,40,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Sunbird ,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Rock dove,40,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Rock dove,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Rock dove,40,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,27.7,clear;hot;humid,07:19,07:24,Rock dove,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,House crow,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,House crow,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,House crow,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Rock dove,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Tanimbar corella,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Javan myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Olive backed sunbird,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Rock dove,40,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Rock dove,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Rock dove,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Common myna,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Oriental magpie robin,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Asian Koel,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Collared Kingfisher,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,27.7,clear;hot;humid,07:25,07:30,Tanimbar corella,24,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Asian glossy starling,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Asian glossy starling,20,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Asian glossy starling,20,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,House crow,40,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,House crow,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,House crow,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,House crow,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Oriental magpie robin,20,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Oriental magpie robin,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Oriental magpie robin,15,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Javan myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Javan myna,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Javan myna,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Red-breasted parakeet,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Red-breasted parakeet,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Red-breasted parakeet,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Red-breasted parakeet,30,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Malaysian pied fantail,20,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Rock dove,35,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,House sparrow,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Common myna,5,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Common myna,10,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,27.7,clear;hot;humid,07:31,07:36,Common myna,25,
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,40,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,40,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,40,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,40,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,15,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Rock dove,15,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,50,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Red-breasted parakeet,55,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Cream vented bulbul,30,Tree creeper like
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,15,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Javan myna,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,House crow,35,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,House crow,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,House crow,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,House crow,15,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,House crow,15,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,House crow,15,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Asian glossy starling,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Asian glossy starling,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Asian glossy starling,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Asian glossy starling,50,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Asian glossy starling,50,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,27.7,clear;hot;humid,07:37,07:42,Asian glossy starling,50,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,35,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,35,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,35,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,35,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,25,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Javan myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,House crow,5,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,House crow,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,House crow,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,House crow,30,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Common myna,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Common myna,10,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Common myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Common myna,20,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Collared Kingfisher,45,Hawker center very active; trays of food being picked at 
+2AM,18/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,27.7,clear;hot;humid,07:44,07:49,Black naped oriole,5,Hawker center very active; trays of food being picked at 
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,5,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Red-breasted parakeet,25,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Tanimbar corella,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,40,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,45,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,Javan myna,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,32.5,cloudy;humid,16:28,16:33,House crow,20,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,40,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Red-breasted parakeet,5,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Javan myna,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Javan myna,25,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Oriental magpie robin,25,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Common flameback,20,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,House sparrow,25,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,House sparrow,25,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,32.4,cloudy;humid,16:34,16:39,Rock dove,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Javan myna,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Javan myna,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Javan myna,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Javan myna,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Oriental magpie robin,25,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Common myna,20,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Common myna,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Common myna,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,15,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,10,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,Red-breasted parakeet,30,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,House crow,35,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,32.4,cloudy;humid,16:40,16:45,White-bellied sea eagle,70,Low traffic; less than 1 person / minute
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Javan myna,5,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Javan myna,35,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Javan myna,35,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Javan myna,15,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Javan myna,15,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Javan myna,15,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,10,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,30,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,40,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,35,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,35,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,5,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Rock dove,15,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,35,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,20,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,20,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,5,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,10,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,10,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Red-breasted parakeet,25,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Yellow vented bulbul,35,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Asian glossy starling,5,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Asian glossy starling,10,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Asian glossy starling,10,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,Asian glossy starling,15,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,House crow,5,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,32.6,cloudy;humid,16:46,16:51,House crow,15,Less leftover food than in the morning; quite busy;20 ppl/min
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Tanimbar corella,5,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,5,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,10,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,10,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,House crow,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Red-breasted parakeet,10,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Red-breasted parakeet,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Red-breasted parakeet,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Red-breasted parakeet,50,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Javan myna,10,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Javan myna,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Javan myna,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Javan myna,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Javan myna,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Common myna,20,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Common myna,10,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Common myna,30,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+2PM,18/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,32.6,cloudy;humid,16:51,16:56,Asian glossy starling,25,lots of food waste on the floor
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Spotted dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Spotted dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Tanimbar corella,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Tanimbar corella,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Tanimbar corella,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Rock dove,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Rock dove,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,House crow,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,House crow,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,House crow,35,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,House crow,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Common myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Common myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C1,8.441357,0.102,28.6,clear;lowhumidity,07:03,07:07,Common flameback,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,35,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,35,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Asian glossy starling,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Asian glossy starling,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Asian glossy starling,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Red-breasted parakeet,35,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Oriental magpie robin,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Oriental pied hornbill,45,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Rock dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Rock dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Rock dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Rock dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Collared Kingfisher,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Tanimbar corella,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C2,8.441357,0.099,28.7,clear;lowhumidity,07:08,07:13,Olive backed sunbird,35,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Asian Koel,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Olive winged bulbul,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common myna,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common myna,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common myna,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Laced woodpecker,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Laced woodpecker,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Common flameback,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Tanimbar corella,40,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Large billed crow,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Large billed crow,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Olive backed sunbird,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Olive backed sunbird,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Oriental magpie robin,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Oriental magpie robin,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C3,8.441357,0.141,28.7,clear;lowhumidity,07:14,07:19,Oriental magpie robin,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Red-breasted parakeet,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Red-breasted parakeet,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Red-breasted parakeet,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Javan myna,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Tanimbar corella,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Asian glossy starling,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Asian glossy starling,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,Common flameback,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C4,8.441357,0.112,28.7,clear;lowhumidity,07:20,07:25,House crow,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Common myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Common myna,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Collared Kingfisher,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Black naped oriole,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,House crow,25,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,House crow,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,House crow,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,House crow,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Olive backed sunbird,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Olive backed sunbird,20,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Tanimbar corella,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Tanimbar corella,15,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Tanimbar corella,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Olive winged bulbul,30,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Rock dove,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Spotted dove,5,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Common flameback,10,
+3AM,19/05/2022,AM,Singapore ,Changi Village,C5,8.441357,0.126,28.7,clear;lowhumidity,07:26,07:31,Oriental magpie robin,10,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Tanimbar corella,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Tanimbar corella,30,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Tanimbar corella,30,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Tanimbar corella,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Tanimbar corella,50,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Rock dove,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Rock dove,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Rock dove,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Red-breasted parakeet,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Javan myna,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C1,8.441357,0.102,28.8,light rain;cloud,16:42,16:47,Javan myna,10,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.8,light rain;cloud,16:47,16:52,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Red-breasted parakeet,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Javan myna,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Javan myna,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Javan myna,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Javan myna,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Rock dove,30,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C2,8.441357,0.099,28.4,light rain;cloud,16:47,16:52,Black naped oriole,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Oriental pied hornbill,45,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Oriental magpie robin,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,30,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,30,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Red-breasted parakeet,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Yellow vented bulbul,20,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Yellow crested cockatoo,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Yellow crested cockatoo,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Javan myna,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Javan myna,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Javan myna,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Javan myna,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C3,8.441357,0.141,28.4,light rain;cloud,16:52,16:57,Large billed crow,30,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Asian glossy starling,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Asian glossy starling,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Asian glossy starling,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Asian glossy starling,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Asian glossy starling,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Asian glossy starling,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Large billed crow,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Large billed crow,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Large billed crow,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Red-breasted parakeet,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Red-breasted parakeet,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Red-breasted parakeet,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,House crow,5,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Tanimbar corella,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Tanimbar corella,40,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Rock dove,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Rock dove,10,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Rock dove,35,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C4,8.441357,0.112,28.4,light rain;cloud,16:57,17:02,Javan myna,25,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Oriental pied hornbill,50,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Oriental pied hornbill,50,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Oriental pied hornbill,50,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Oriental pied hornbill,45,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Oriental pied hornbill,45,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Common myna,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Common myna,15,
+3PM,19/05/2022,PM,Singapore ,Changi Village,C5,8.441357,0.126,28.4,light rain;cloud,17:03,17:08,Common myna,15,
